@@ -81,6 +81,8 @@ public function store(Request $request) {
 
 ## Configuration
 
+After publishing the config, you can configure Blackist Validation in your project's `config/validation.php` file.
+
 ### source: string|null
 
 You may specify the preferred URL or file path to update the blacklist.
